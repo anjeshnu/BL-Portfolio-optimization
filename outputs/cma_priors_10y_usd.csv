@@ -1,0 +1,10 @@
+ETF,Currency_used,AssetClass,Asset,Index,ER_10Y,Vol
+SPY,USD,Equities,US large cap equities,MSCI USA Index,0.05188489,0.186627294
+VGK,USD,Equities,Europe large cap equities,MSCI Europe index,0.067629457,0.191981649
+EWJ,JPY,Equities,Japan large cap equities,MSCI Japan Index,0.059381485,0.170293463
+FXI,USD,Equities,China-Broad market,MSCI Emerging - China in CNY,0.042213202,0.290877052
+INDY,INR,Equities,India equities,S&P India LargeCap Index,0.105916858,0.239481757
+EWZ,USD,Equities,Emerging large cap equities,MSCI Emerging Markets Index ,0.059137106,0.20572275
+IEF,USD,Fixed income,US government (10+ years),Bloomberg Barclays Long Goverment index,0.036020994,0.119287577
+LQD,USD,Fixed income,US credit (all maturities),Bloomberg Barclays U.S. Credit Index,0.040092468,0.056393993
+DBC,,,,,,
